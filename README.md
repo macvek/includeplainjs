@@ -53,6 +53,6 @@ includeplainjs('samplereadme2.js', expected, mockedEnv);
 console.log(expected.dependentOnGlobal());
 // Should show:
 // TURBOGLOBAL, is ok
-
+```
 # license
 ISC
