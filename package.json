@@ -1,12 +1,13 @@
 {
   "name": "includeplainjs",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Utility to include symbols from javascript file which has no module declaration",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
   "homepage": "https://github.com/macvek/includeplainjs",
+  "repository": "https://github.com/macvek/includeplainjs",
   "author": "Maciej Aleksandrowicz <macvek@gmail.com>",
   "license": "ISC"
 }
